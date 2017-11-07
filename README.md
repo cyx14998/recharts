@@ -75,10 +75,11 @@ To examine the demos in your local build, execute
 
 
 ```sh
-$ npm run[-script] demo
+$ npm run demo
 ```
 
 and then browse to http://localhost:3000
+然后用浏览器访问 http://localhost:3000
 
 ## Module Formats
 
